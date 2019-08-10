@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Todo App using React with Hooks, Context, and Reducers! 👋</h1>
+<h1 align="center">↪⚛↩ Welcome to Todo App using React with Hooks, Context, and Reducers! ↪⚛↩</h1>
 <p>
   <a href="https://twitter.com/SamThoyre">
     <img alt="Twitter: SamThoyre" src="https://img.shields.io/twitter/follow/SamThoyre.svg?style=social" target="_blank" />
@@ -21,4 +21,3 @@
 Give a ⭐️ if this project helped you!
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
